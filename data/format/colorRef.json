@@ -1,0 +1,18 @@
+{
+    "darkTheme": {
+        "navColor": "#1F1F1F",
+        "bgColor": "#101010",
+        "fgColorDark": "#101010",
+        "fgColorLight": "#161616",
+        "textColor": "#FFFFFF",
+        "buttonColor": "#FF766D"
+    },
+    "lightTheme": {
+        "navColor": "#FF624B",
+        "bgColor": "#FFC5B8",
+        "fgColorDark": "#FFBBAC",
+        "fgColorLight": "#FFC5B8",
+        "textColor": "#101010",
+        "buttonColor": "#FAFAFA"
+    }
+}

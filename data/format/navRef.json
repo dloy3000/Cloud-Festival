@@ -1,0 +1,20 @@
+{
+    "navRef": [
+        {
+            "title": "HOME",
+            "href": "/"
+        },
+        {
+            "title": "CURATED",
+            "href": "/curated"
+        },
+        {
+            "title": "AMBIENT",
+            "href": "/ambient"
+        },
+        {
+            "title": "PLAYER",
+            "href": "/player"
+        }
+    ]
+}
